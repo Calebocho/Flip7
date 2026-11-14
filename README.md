@@ -1,5 +1,5 @@
 # Flip 7
-équipe 24 : Abdourahimi Souhayb, Daiki Nael, Bakouma Caleb, Cardin Tristan 
+équipe 24 : Bakouma Caleb,Abdourahimi Souhayb, Daiki Nael
 Guide pour lancer notre projet Flip7 
 
 ## Prérequis
